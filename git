@@ -1,0 +1,5 @@
+git config --global user.email eugeenchimwani6@gmail.com
+
+git config --global user.name EugeenL
+
+git add .
